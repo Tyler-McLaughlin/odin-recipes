@@ -1,1 +1,3 @@
 03/10/23 - This project is intended to improve my HTML skills. I will make a very basic recipes website using only HTML. No CSS will be used in this project, at least not in the beginning. As I progress through the project I will be sure to update this file with my learnings.
+
+03/10/23 - I have updated this website to include 3 recipes in addition to the homepage. Each recipe has a link on the homepage which will show the ingredients and instructions for making the dish. In the process I learned how to efficiently wrap a tag around an existing codeblock. I also learned how to make multiple lines of the same element with one command in VScode and how to efficiently navigate filling each of those elements with the relevant code/text.
