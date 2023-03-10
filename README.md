@@ -1,0 +1,1 @@
+03/10/23 - This project is intended to improve my HTML skills. I will make a very basic recipes website using only HTML. No CSS will be used in this project, at least not in the beginning. As I progress through the project I will be sure to update this file with my learnings.
